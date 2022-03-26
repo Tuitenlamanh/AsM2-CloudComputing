@@ -2,7 +2,7 @@
     $severname = "localhost";
     $username = "root";
     $password = "";
-    $database = "websdlc";
+    $database = "cpasm2";
     //Khai báo biến để kết nỗi CSDL
     $connect = new mysqli($severname,$username,$password,$database);
     //$connect = new mysqli_connect ----> Hướng Thủ Tục
