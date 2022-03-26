@@ -1,7 +1,7 @@
 <?php
-    $severname = "localhost";
-    $username = "root";
-    $password = "";
+    $severname = "54.206.27.197";
+    $username = "manhnv";
+    $password = "manh@123";
     $database = "websdlc";
     //Khai báo biến để kết nỗi CSDL
     $connect = new mysqli($severname,$username,$password,$database);
