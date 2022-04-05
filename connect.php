@@ -1,5 +1,5 @@
 <?php
-    $severname = "54.79.29.105";
+    $severname = "3.132.234.157";
     $username = "manhnv";
     $password = "manh@123";
     $database = "websdlc";
